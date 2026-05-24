@@ -61,4 +61,7 @@ This profile reflects **advisory-level engineering thinking**, focused on:
 ## 📫 Contact
 
 - Email: mercyemerald24.com
-- LinkedIn: 
+- LinkedIn:www.linkedin.com/in/
+mercy-emerald206
+
+
