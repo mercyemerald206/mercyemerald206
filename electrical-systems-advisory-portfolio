@@ -1,37 +1,29 @@
-Structure:
 electrical-systems-advisory-portfolio/
-│
 ├── README.md
+├── advisory/
+│   ├── methodology.md
+│   ├── decision-frameworks.md
+│   ├── risk-analysis.md
+│   └── communication.md
+│
 ├── case-studies/
-│   ├── intelligent-fault-detection/
-│   │   ├── README.md
-│   │   ├── system_design.md
-│   │   ├── tradeoff_analysis.md
-│   │   ├── simulation.py
-│   │   └── results/
-│   │
-│   ├── power-system-optimization/
-│   │   ├── README.md
-│   │   ├── architecture.md
-│   │   ├── reliability_model.md
-│   │   └── simulation.py
-│   │
-│   ├── adaptive-circuit-analysis/
-│       ├── README.md
-│       ├── methodology.md
-│       ├── scenarios.md
-│       └── simulation.py
+│   ├── 01-fault-diagnosis-advisory.md
+│   ├── 02-grid-tradeoff-advisory.md
+│   └── 03-predictive-maintenance-advisory.md
 │
-├── frameworks/
-│   ├── troubleshooting-framework.md
-│   ├── decision-making-under-uncertainty.md
-│   ├── engineering-tradeoffs-playbook.md
+├── systems/
+│   ├── ai-circuit-diagnosis/
+│   ├── grid-simulator/
+│   └── predictive-maintenance/
 │
-├── tools/
-│   ├── fault-detection-model.py
-│   ├── reliability-analysis.py
-│   └── system-simulation-engine.py
+├── artifacts/
+│   ├── architecture.md
+│   ├── tradeoff-matrix.md
+│   └── system-diagrams.md
 │
-└── assets/
-    ├── diagrams/
-    └── charts/
+├── demos/
+│   ├── advisory-scenarios.md
+│   └── api-examples.md
+│
+├── Makefile
+└── .gitignore
